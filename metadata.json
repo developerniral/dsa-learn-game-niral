@@ -1,0 +1,6 @@
+{
+  "name": "DSA Quest",
+  "description": "Interactive Data Structures & Algorithms Learning Game with visual playgrounds, algorithm execution lab, Big-O arena, coding missions, and gamified mastery progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
